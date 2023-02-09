@@ -1,2 +1,3 @@
-# matlab-stuffies
-Various Matlab Scripts to do Stuff
+# Análisis Numérico
+
+Algunos de los algoritmos desarrollados en el espacio académico análisis numérico
